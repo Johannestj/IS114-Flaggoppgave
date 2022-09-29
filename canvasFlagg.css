@@ -4,5 +4,5 @@ body {
   color: #242424;
 }
 canvas {
-  border-style: solid;
+  border: 1px solid gray;
 }

@@ -1,4 +1,4 @@
-  function drawRect(ctx, startX, startY, width, height, color) {
+  function drawRect(ctx, startX, startY, width, height, color) { // trenger kommentar på hva denne funksjonen gjør
     ctx.beginPath();
     ctx.rect(startX, startY, width, height);
     ctx.strokeStyle = color;
@@ -17,7 +17,7 @@
     ctx.stroke();
   }
   // Italia
-    const italia = document.getElementById("italia");
+    const italia = document.getElementById("italia"); // trenger kommentar på hva "Italia-koden" gjør
     const ictx = italia.getContext("2d");
       italia.width = 600;
       italia.height = 300;
