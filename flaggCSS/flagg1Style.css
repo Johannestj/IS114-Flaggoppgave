@@ -1,5 +1,38 @@
+
 body {
-  text-align: center;
   font-family: 'Poppins', sans-serif;
   color: #242424;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 8px;
+}
+
+p {
+  margin: auto;
+  width: 600px;
+  height: 400px;
+}
+
+.irland-container {
+  text-align: center;
+}
+
+.irland-container-flagg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.irland-container-flagg > p {
+  width: 200px;
+  height: 300px;
+  margin: 0;
+}
+
+.vietnam-container-flagg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
