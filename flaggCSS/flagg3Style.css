@@ -3,3 +3,6 @@ body {
   font-family: 'Poppins', sans-serif;
   color: #242424;
 }
+canvas {
+  border-style: solid;
+}
