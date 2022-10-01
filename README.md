@@ -36,7 +36,13 @@ Som **konklusjon** vil vi si at måten å jobbe med GitHub Projects var ny for s
 
 **Gruppe 2: CSS-flagg**
 
+
 **Gruppe 3: Canvas-flagg**
+1. Valgte flagg og fant dimensjonene
+2. Utforsket canvas-element metoden for å tegne flagg
+3. Tegnet flagg ved bruk av metoden
+4. Slo sammen kodene våre i et felles dokument
+5. Forandret på deler av koden der vi møtte på problemer
 
 ## **Konklusjon** (del 5c)
 Her skal Jan og andre som kan hjelpe til skrive deres del. **HUSK** å legge til referanser dere bruker.
