@@ -21,9 +21,9 @@ Etter anbefaling fra Janis på forelesning, valgte vi å dele gruppa på 7 inn i
 **Merk:** Mappestrukturen har under prosjektet vært inndelt i en hovedmappe med index.html og tilhørende style.css, hvor de resterende delene ble organisert i undermapper. Dette ble gjort for å holde en god og oversiktlig struktur og funket helt fint i browser, men hadde store utfordringer når det skulle legges ut som en del av GitHub Pages (selv om link-path var korrekt). Vi måtte derfor legge filene uten mappestruktur i vårt repository.
 
 ### **GitHub Projects**
-Gruppa valgte en template som het “Team backlog”. Vi tok bort kolonnene “New” og “Ready”, da det ikke virket relevant i vårt prosjekt. I “Backlog” la vi til oppgaver som måtte gjøres og flyttet dem så over til “In progress” mens dem ble jobbet med. Videre ble dem lagt i kolonnen “In review” så gruppeleder kunne gå gjennom og godkjenne, før de ble lagt over til “Done” når løsningen var godkjent.
+Gruppa valgte en template som het “Team backlog”. Vi tok bort kolonnene “New” og “Ready”, da det ikke virket relevant i vårt prosjekt. I “Backlog” la vi til oppgaver som måtte gjøres og flyttet det så over til “In progress” mens det ble jobbet med. Videre ble det lagt inn i kolonnen “In review” så gruppeleder kunne gå gjennom og godkjenne, før de ble lagt over til “Done” når løsningen var godkjent.
 
-Vi jobbet i såkalte sprinter basert på Scrum, hvor delgruppene tok for seg individuelle oppgaver hver for seg og hvor gruppen som en enhet møttes for felles diskusjon og problemløsning etterpå.
+Vi jobbet i såkalte sprinter basert på Scrum (Karlsen, 2021, s. 277), hvor delgruppene tok for seg individuelle oppgaver hver for seg og hvor gruppen som en enhet møttes for felles diskusjon og problemløsning etterpå.
 
 Som **konklusjon** vil vi si at måten å jobbe med GitHub Projects var ny for samtlige uten om gruppeleder og det var derfor en liten utfordring å få det til å bli en naturlig del av arbeidsflyten. Men dette er lærdom vi tar med oss videre i neste prosjekt, ved å blant annet være mer nøye med å sjekke og oppdatere project-siden underveis i prosjektet.
 
