@@ -1,6 +1,6 @@
-  function drawRect(ctx, startX, startY, width, height, color) { // trenger kommentar på hva denne funksjonen gjør
-    ctx.beginPath();
-    ctx.rect(startX, startY, width, height);
+  function drawRect(ctx, startX, startY, width, height, color) { // the function draws rectangles, needs only the values 
+    ctx.beginPath();                                             // drawRect(ctx, startX, startY, width, height, color) 
+    ctx.rect(startX, startY, width, height);                     // to draw another rectangle.
     ctx.strokeStyle = color;
     ctx.fillStyle = color;
     ctx.lineWidth = 1;
@@ -8,9 +8,9 @@
     ctx.stroke();
 }
 
-  function drawCircle(ctx, centerX, centerY, radius, color) {
-    ctx.beginPath();
-    ctx.arc(centerX, centerY, radius, 0, 2*Math.PI);
+  function drawCircle(ctx, centerX, centerY, radius, color) { // the function draws rectangles, needs only the values 
+    ctx.beginPath();                                          // drawCircle(ctx, centerX, centerY, radius, color)
+    ctx.arc(centerX, centerY, radius, 0, 2*Math.PI);          // to draw another circle
     ctx.strokeStyle = color;
     ctx.fillStyle = color;
     ctx.lineWidth = 1;
@@ -19,8 +19,8 @@
   }
 
   // Italia
-    const italia = document.getElementById("italia"); // trenger kommentar på hva "Italia-koden" gjør
-    const ictx = italia.getContext("2d");
+    const italia = document.getElementById("italia"); // retrives the id from html and creates a constant.
+    const ictx = italia.getContext("2d");             // constant for italia ctx. same goes for the other flags.
     italia.width = 600;
     italia.height = 300;
     drawRect (ictx, 0, 0, italia.width/3, italia.height, "green");
