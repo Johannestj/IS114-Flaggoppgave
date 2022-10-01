@@ -34,6 +34,8 @@ Som **konklusjon** vil vi si at måten å jobbe med GitHub Projects var ny for s
 3. Prøvde å kode hver for oss før vi etterpå diskutert fordeler og ulemper med hverandres løsninger
 4. Kodet et endelig resultat basert på konklusjonen vår sammen og la inn offisielle flagg-farger som *hexadecimal*.
 
+**Merk:** Vi har tolket oppgaven som at vi skal style p-taggen ved hjelp av en style-attributt (noe vi har gjort til en viss grad og dermed har vist at vi kjenner til konseptet/metoden), men for å gjøre koden mer oversiktlig og enklere å feilsøke, har vi valgt å style den videre utenfor p-taggen. Dette gjorde vi ved å legge inn de individuelle flaggene i egne div-containere, for å kunne style flaggene uavhengig av hverandre ved hjelp av CSS etterpå. 
+
 **Gruppe 2: CSS-flagg**
 
 
