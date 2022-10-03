@@ -62,9 +62,11 @@ Vi fikk veldig god læring spesielt da vi støtte på problemer og fant løsning
 4. Slo sammen kodene våre i et felles dokument
 5. Forandret på deler av koden der vi møtte på problemer
 
-## **Konklusjon** (del 5c)
-Her skal Jan og andre som kan hjelpe til skrive deres del. **HUSK** å legge til referanser dere bruker.
+Utfordringer:
+Selve læringsprosessen gjorde at vi støtte på flere problemer. Canvas-metoden er en mer abstrakt metode som gjør det vanskeligere å lære å kode med det. Utover det hadde vi et problem ved at flagget ikke ville vises selv om vi ikke hadden noen feilmeldinger, og det fungerte på en av våres pc-er, men ikke den andre.
 
+## **Konklusjon** (del 5c)
+De ulike metodene brukt for å tegne flagg i HTML har ulike fordeler og ulemper, og egner seg til ulike bruksområder. P-element er en lettvint metode for å tegne flagg med vannrette elementer, men egner seg ikke til mer kompliserte flagg. All koden vil også befinne seg på få linjer, og er satt direkte inn body. CSS gir muligheten for å skille HTML og CSS slik at det blir mer oversiktlig, men som en konsekvens av at koden blir delt, får man ikke alltid nøyaktige feilmeldinger. Canvas lager et definert område som all koden videre vil inngå i. Metoden åpner muligheten for å bruke samme kode flere ganger gjennom å lage funksjoner i javascript. Canvas er også mer egnet til å lage kompliserte flagg, og gir samt flere muligheter. Det vil også gi konkrete feilmeldinger, men det er en mer abstrakt metode som gjør den mer komplisert og vanskelig, alt etter programmeringsferdighetene til koderen.
 
 ### **Referanser**
 Karlsen, J.T. (5. utgave 2021). *Prosjektledelse – fra initiering til gevinstrealisering*. Universitetsforlaget.
