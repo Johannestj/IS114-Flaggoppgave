@@ -38,6 +38,22 @@ Som **konklusjon** vil vi si at måten å jobbe med GitHub Projects var ny for s
 
 **Gruppe 2: CSS-flagg**
 
+1. Valgte flagg 
+2. Brukte tid på å utforske koden og finne ut hvordan vi skulle tegne flagg med bruk av CSS.
+3. Deretter bestemte vi oss for å lage hvert vårt flagg alene og slå det sammen da vi var ferdig
+4. Da flaggene var nesten ferdig, implementerte vi riktig fargekode og dimensjoner til flaggene. I tillegg slo vi sammen flaggene til en html og css fil. 
+
+Utfordringer for Gruppe 2 CSS-flagg:
+1. Typiske skrive feil i koden som tok litt tid å finne og rette på.
+2. Vi hadde et problem med å få html filen til å finne og lese CSS filen. Det gikk fint etter litt research da vi lærte hvordan man skulle føre lokasjonen til CSS filen riktig i html filen.
+3. Etter vi hadde lastet opp for første gang, så vi på oppgaven at vi skulle bruke <p element istedenfor <div. Da så vi også at vi skulle begrunne hvorfor vi valgte <p class= eller <p id=. Vi googlet og fant ut at "class" passer bedre da man har flere elementer i en html fil. Derfor valgte vi dette, fordi etter vår forståelse hadde vi flere elementer. Dette var lett å fikse, men en god påminnelse om å lese oppgaven nøye og flere ganger.
+4. Det oppsto også noen problemer da vi skulle slå sammen koden vår sammen. Siden alle på gruppa vår hadde jobbet på egen maskin var det forskjeller i koden vår. Viktor hadde blant annet brukt intern CSS og hadde ikke separert til en ekstern CSS fil. Derfor måtte dette bli endret slik at det passet hva de andre hadde og oppgaven.
+5. Da vi var ferdig med å pushe opp arbeidet vårt til git fikk vi tilbakemelding fra gruppa om at vi kunne gjort noen endringer i koden for å gjøre den litt mer lesbar. Vi hadde definert hver farge på hvert flagg. Vi fikk vite at vi kunne heller ha brukt container for å gi lettere oversikt. Dette er for filen cssFlagg.css
+
+Reflekson for Gruppe 2 CSS-flagg:
+
+Vi fikk veldig god læring spesielt da vi støtte på problemer og fant løsninger. Totalt sett gikk prosessen bra. Selv om vi fikk problemer klarte vi å løse dem og jobbe oss rundt dem. Det var her gruppe samarbeidet kom til gode. Vi lærte også mer om html og css og ble bedre kjent med editorene vi brukte. Dette er lærdom som vi vil ta med oss videre.
+
 
 **Gruppe 3: Canvas-flagg**
 1. Valgte flagg og fant dimensjonene
