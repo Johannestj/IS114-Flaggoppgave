@@ -28,6 +28,10 @@ Vi jobbet i såkalte sprinter basert på Scrum (Karlsen, 2021, s. 277), hvor del
 Som **konklusjon** vil vi si at måten å jobbe med GitHub Projects var ny for samtlige uten om gruppeleder og det var derfor en liten utfordring å få det til å bli en naturlig del av arbeidsflyten. Men dette er lærdom vi tar med oss videre i neste prosjekt, ved å blant annet være mer nøye med å sjekke og oppdatere project-siden underveis i prosjektet.
 
 ### **Fremgangsmåter**
+
+Vi ble enige om at alle skulle bruke heksadesimalfarger. Dette var fordi det ble da likt på tvers av gruppene og det skapte bedre system i koden.  
+
+
 **Gruppe 1: <p-flagg**
 1. Valgte flagg
 2. Fant dimensjonene
@@ -43,16 +47,12 @@ Som **konklusjon** vil vi si at måten å jobbe med GitHub Projects var ny for s
 3. Deretter bestemte vi oss for å lage hvert vårt flagg alene og slå det sammen da vi var ferdig
 4. Da flaggene var nesten ferdig, implementerte vi riktig fargekode og dimensjoner til flaggene. I tillegg slo vi sammen flaggene til en html og css fil. 
 
-Utfordringer for Gruppe 2 CSS-flagg:
+**Utfordringer:**
 1. Typiske skrive feil i koden som tok litt tid å finne og rette på.
 2. Vi hadde et problem med å få html filen til å finne og lese CSS filen. Det gikk fint etter litt research da vi lærte hvordan man skulle føre lokasjonen til CSS filen riktig i html filen.
 3. Etter vi hadde lastet opp for første gang, så vi på oppgaven at vi skulle bruke <p element istedenfor <div. Da så vi også at vi skulle begrunne hvorfor vi valgte <p class= eller <p id=. Vi googlet og fant ut at "class" passer bedre da man har flere elementer i en html fil. Derfor valgte vi dette, fordi etter vår forståelse hadde vi flere elementer. Dette var lett å fikse, men en god påminnelse om å lese oppgaven nøye og flere ganger.
 4. Det oppsto også noen problemer da vi skulle slå sammen koden vår sammen. Siden alle på gruppa vår hadde jobbet på egen maskin var det forskjeller i koden vår. Viktor hadde blant annet brukt intern CSS og hadde ikke separert til en ekstern CSS fil. Derfor måtte dette bli endret slik at det passet hva de andre hadde og oppgaven.
 5. Da vi var ferdig med å pushe opp arbeidet vårt til git fikk vi tilbakemelding fra gruppa om at vi kunne gjort noen endringer i koden for å gjøre den litt mer lesbar. Vi hadde definert hver farge på hvert flagg. Vi fikk vite at vi kunne heller ha brukt container for å gi lettere oversikt. Dette er for filen cssFlagg.css
-
-Reflekson for Gruppe 2 CSS-flagg:
-
-Vi fikk veldig god læring spesielt da vi støtte på problemer og fant løsninger. Totalt sett gikk prosessen bra. Selv om vi fikk problemer klarte vi å løse dem og jobbe oss rundt dem. Det var her gruppe samarbeidet kom til gode. Vi lærte også mer om html og css og ble bedre kjent med editorene vi brukte. Dette er lærdom som vi vil ta med oss videre.
 
 
 **Gruppe 3: Canvas-flagg**
@@ -62,11 +62,17 @@ Vi fikk veldig god læring spesielt da vi støtte på problemer og fant løsning
 4. Slo sammen kodene våre i et felles dokument
 5. Forandret på deler av koden der vi møtte på problemer
 
-Utfordringer:
+**Utfordringer:**
+
 Selve læringsprosessen gjorde at vi støtte på flere problemer. Canvas-metoden er en mer abstrakt metode som gjør det vanskeligere å lære å kode med det. Utover det hadde vi et problem ved at flagget ikke ville vises selv om vi ikke hadden noen feilmeldinger, og det fungerte på en av våres pc-er, men ikke den andre.
 
 ## **Konklusjon** (del 5c)
 De ulike metodene brukt for å tegne flagg i HTML har ulike fordeler og ulemper, og egner seg til ulike bruksområder. P-element er en lettvint metode for å tegne flagg med vannrette elementer, men egner seg ikke til mer kompliserte flagg. All koden vil også befinne seg på få linjer, og er satt direkte inn body. CSS gir muligheten for å skille HTML og CSS slik at det blir mer oversiktlig, men som en konsekvens av at koden blir delt, får man ikke alltid nøyaktige feilmeldinger. Canvas lager et definert område som all koden videre vil inngå i. Metoden åpner muligheten for å bruke samme kode flere ganger gjennom å lage funksjoner i javascript. Canvas er også mer egnet til å lage kompliserte flagg, og gir samt flere muligheter. Det vil også gi konkrete feilmeldinger, men det er en mer abstrakt metode som gjør den mer komplisert og vanskelig, alt etter programmeringsferdighetene til koderen.
+
+### **Refleksjon**
+
+Vi fikk veldig god læring spesielt da vi støtte på problemer og fant løsninger. Totalt sett gikk prosessen bra. Selv om vi fikk problemer klarte vi å løse dem og jobbe oss rundt dem. Det var her gruppe samarbeidet kom til gode. Vi lærte også mer om html, css og canvas. I tillegg ble vi bedre kjent med editorene vi brukte. Dette er lærdom som vi vil ta med oss videre.
+
 
 ### **Referanser**
 Karlsen, J.T. (5. utgave 2021). *Prosjektledelse – fra initiering til gevinstrealisering*. Universitetsforlaget.
