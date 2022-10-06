@@ -29,7 +29,7 @@ Som **konklusjon** vil vi si at måten å jobbe med GitHub Projects var ny for s
 
 ### **Fremgangsmåter**
 
-Vi ble enige om at alle skulle bruke heksadesimalfarger. Dette var fordi det ble da likt på tvers av gruppene og det skapte bedre system i koden.  
+Vi ble enige om at alle skulle bruke heksadesimalfarger/hex triplet. En hex triplet er et seks sifret, tre-bit heksadesimalt nummer som blir brukt for å representere farger i HTML, CSS, SVG og andre applikasjoner. De tre bytene representerer de rød, grønne og blå komponentene av en farge. (Wikipedia, u.å.) Vi brukte dette var fordi det ble da likt på tvers av gruppene og det skapte bedre system i koden.  
 
 
 **Gruppe 1: <p-flagg**
@@ -66,7 +66,7 @@ Vi ble enige om at alle skulle bruke heksadesimalfarger. Dette var fordi det ble
 
 Selve læringsprosessen gjorde at vi støtte på flere problemer. Canvas-metoden er en mer abstrakt metode som gjør det vanskeligere å lære å kode med det. Utover det hadde vi et problem ved at flagget ikke ville vises selv om vi ikke hadden noen feilmeldinger, og det fungerte på en av våres pc-er, men ikke den andre.
 
-## **Konklusjon** (del 5c)
+## **Konklusjon**
 De ulike metodene brukt for å tegne flagg i HTML har ulike fordeler og ulemper, og egner seg til ulike bruksområder. P-element er en lettvint metode for å tegne flagg med vannrette elementer, men egner seg ikke til mer kompliserte flagg. All koden vil også befinne seg på få linjer, og er satt direkte inn body. CSS gir muligheten for å skille HTML og CSS slik at det blir mer oversiktlig, men som en konsekvens av at koden blir delt, får man ikke alltid nøyaktige feilmeldinger. Canvas lager et definert område som all koden videre vil inngå i. Metoden åpner muligheten for å bruke samme kode flere ganger gjennom å lage funksjoner i javascript. Canvas er også mer egnet til å lage kompliserte flagg, og gir samt flere muligheter. Det vil også gi konkrete feilmeldinger, men det er en mer abstrakt metode som gjør den mer komplisert og vanskelig, alt etter programmeringsferdighetene til koderen.
 
 ### **Refleksjon**
